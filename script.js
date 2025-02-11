@@ -30,4 +30,4 @@ else {
 
 // Mostramos el mensaje y el vuelto
 alert(mensaje + ` Te sobra: $${vuelto.toFixed(2)} USD.`);
-// recordar que .toFixed() sirve para recortar la cantidad de decimales  
+// recordar que .toFixed() sirve para recortar la cantidad asdasd de decimales  asdasd
